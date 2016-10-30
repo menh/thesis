@@ -50,7 +50,7 @@ void readFile() {
 				while (strcmp(code, "ENDSEC")) {
 					in.getline(code, 10);
 					in.getline(codeValue, 10);
-					while()
+				//	while()
 				}
 				
 			}
