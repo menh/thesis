@@ -1,0 +1,4 @@
+﻿  readMap.cpp
+c:\users\dell\documents\visual studio 2015\projects\readmap\readmap\readmap.cpp(11): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  readMap.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2015\Projects\readMap\Debug\readMap.exe
+  readMap.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2015\Projects\readMap\Debug\readMap.pdb (Full PDB)
