@@ -1,4 +1,3 @@
 INDEX VERSION 1.126+F:\projectCode\autoClickPro\.metadata\.plugins\org.eclipse.jdt.core
-3487808451.index
-4133055824.index
 1703395060.index
+852717574.index
